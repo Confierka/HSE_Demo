@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/user1/Downloads/dsba-cpp-exam-2021-master/src/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -O0 -Werror=return-type -std=gnu++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/FinalExam.dir/exam/main.cpp.o -c /Users/user1/Downloads/dsba-cpp-exam-2021-master/src/exam/main.cpp",
+  "file": "/Users/user1/Downloads/dsba-cpp-exam-2021-master/src/exam/main.cpp",
+  "output": "CMakeFiles/FinalExam.dir/exam/main.cpp.o"
+}
+]

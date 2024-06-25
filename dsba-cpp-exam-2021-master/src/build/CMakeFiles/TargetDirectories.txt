@@ -1,0 +1,3 @@
+/Users/user1/Downloads/dsba-cpp-exam-2021-master/src/build/CMakeFiles/FinalExam.dir
+/Users/user1/Downloads/dsba-cpp-exam-2021-master/src/build/CMakeFiles/edit_cache.dir
+/Users/user1/Downloads/dsba-cpp-exam-2021-master/src/build/CMakeFiles/rebuild_cache.dir
